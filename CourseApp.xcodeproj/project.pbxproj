@@ -12,6 +12,7 @@
 		B563A3DD26BAF407008B1506 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B563A3DC26BAF407008B1506 /* Assets.xcassets */; };
 		B563A3E026BAF407008B1506 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B563A3DF26BAF407008B1506 /* Preview Assets.xcassets */; };
 		B57E3BD426D423340041E318 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57E3BD326D423340041E318 /* Lesson.swift */; };
+		B57E3BD626D424BD0041E318 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57E3BD526D424BD0041E318 /* Course.swift */; };
 		B5E03C9826BD8B5B000A5587 /* Topic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E03C9726BD8B5B000A5587 /* Topic.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		B563A3DF26BAF407008B1506 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B563A3E126BAF407008B1506 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B57E3BD326D423340041E318 /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
+		B57E3BD526D424BD0041E318 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		B5E03C9726BD8B5B000A5587 /* Topic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Topic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,6 +88,7 @@
 			children = (
 				B5E03C9726BD8B5B000A5587 /* Topic.swift */,
 				B57E3BD326D423340041E318 /* Lesson.swift */,
+				B57E3BD526D424BD0041E318 /* Course.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			files = (
 				B563A3DB26BAF3F9008B1506 /* ContentView.swift in Sources */,
 				B5E03C9826BD8B5B000A5587 /* Topic.swift in Sources */,
+				B57E3BD626D424BD0041E318 /* Course.swift in Sources */,
 				B563A3D926BAF3F9008B1506 /* CourseAppApp.swift in Sources */,
 				B57E3BD426D423340041E318 /* Lesson.swift in Sources */,
 			);
